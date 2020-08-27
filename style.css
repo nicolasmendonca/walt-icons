@@ -1,18 +1,19 @@
 @font-face {
-  font-family: 'icomoon';
-  src:  url('fonts/icomoon.eot?mfenxl');
-  src:  url('fonts/icomoon.eot?mfenxl#iefix') format('embedded-opentype'),
-    url('fonts/icomoon.ttf?mfenxl') format('truetype'),
-    url('fonts/icomoon.woff?mfenxl') format('woff'),
-    url('fonts/icomoon.svg?mfenxl#icomoon') format('svg');
+  font-family: "icomoon";
+  src: url("fonts/icomoon.eot?mfenxl");
+  src: url("fonts/icomoon.eot?mfenxl#iefix") format("embedded-opentype"),
+    url("fonts/icomoon.ttf?mfenxl") format("truetype"),
+    url("fonts/icomoon.woff?mfenxl") format("woff"),
+    url("fonts/icomoon.svg?mfenxl#icomoon") format("svg");
   font-weight: normal;
   font-style: normal;
   font-display: block;
 }
 
-[class^="icon-"], [class*=" icon-"] {
+[class^="icon-"],
+[class*=" icon-"] {
   /* use !important to prevent issues with browser extensions that change fonts */
-  font-family: 'icomoon' !important;
+  font-family: "icomoon" !important;
   speak: never;
   font-style: normal;
   font-weight: normal;
@@ -25,22 +26,22 @@
   -moz-osx-font-smoothing: grayscale;
 }
 
-.icon-bus-solid:before {
+.icon-Bus-solid:before {
   content: "\e900";
 }
-.icon-iconmonstr-gamepad-17:before {
+.icon-Iconmonstr-gamepad-17:before {
   content: "\e901";
 }
-.icon-music-solid:before {
+.icon-Music-solid:before {
   content: "\e902";
 }
-.icon-travel:before {
+.icon-Travel:before {
   content: "\e90e";
 }
 .icon-Delete:before {
   content: "\e922";
 }
-.icon-categories:before {
+.icon-Categories:before {
   content: "\e923";
 }
 .icon-Clipboard:before {
@@ -49,79 +50,79 @@
 .icon-Dashboard:before {
   content: "\e921";
 }
-.icon-app:before {
+.icon-App:before {
   content: "\e903";
 }
-.icon-arrow:before {
+.icon-Arrow:before {
   content: "\e904";
 }
-.icon-art:before {
+.icon-Art:before {
   content: "\e905";
 }
-.icon-attach:before {
+.icon-Attach:before {
   content: "\e906";
 }
-.icon-calendar:before {
+.icon-Calendar:before {
   content: "\e907";
 }
-.icon-camera:before {
+.icon-Camera:before {
   content: "\e908";
 }
-.icon-car:before {
+.icon-Car:before {
   content: "\e909";
 }
-.icon-close:before {
+.icon-Close:before {
   content: "\e90a";
 }
-.icon-coffee:before {
+.icon-Coffee:before {
   content: "\e90b";
 }
-.icon-edit:before {
+.icon-Edit:before {
   content: "\e90f";
 }
-.icon-education:before {
+.icon-Education:before {
   content: "\e910";
 }
-.icon-entertainment:before {
+.icon-Entertainment:before {
   content: "\e911";
 }
-.icon-exercise:before {
+.icon-Exercise:before {
   content: "\e912";
 }
-.icon-food:before {
+.icon-Food:before {
   content: "\e913";
 }
-.icon-gym:before {
+.icon-Gym:before {
   content: "\e914";
 }
-.icon-health:before {
+.icon-Health:before {
   content: "\e915";
 }
-.icon-help:before {
+.icon-Help:before {
   content: "\e916";
 }
-.icon-language:before {
+.icon-Language:before {
   content: "\e918";
 }
-.icon-menu:before {
+.icon-Menu:before {
   content: "\e919";
 }
-.icon-money:before {
+.icon-Money:before {
   content: "\e91a";
 }
-.icon-office:before {
+.icon-Office:before {
   content: "\e91b";
 }
-.icon-pet:before {
+.icon-Pet:before {
   content: "\e91c";
 }
-.icon-shop:before {
+.icon-Shop:before {
   content: "\e91d";
 }
-.icon-stats:before {
+.icon-Stats:before {
   content: "\e91e";
 }
-.icon-ticket_send:before {
+.icon-Ticket_send:before {
   content: "\e91f";
 }
 .icon-Key:before {
@@ -133,18 +134,18 @@
 .icon-Gift:before {
   content: "\e90d";
 }
-.icon-play:before {
+.icon-Play:before {
   content: "\e924";
 }
-.icon-price-tag:before {
+.icon-Price-tag:before {
   content: "\e935";
 }
-.icon-lifebuoy:before {
+.icon-Lifebuoy:before {
   content: "\e941";
 }
-.icon-star-full:before {
+.icon-Star-full:before {
   content: "\e9d9";
 }
-.icon-arrow-left2:before {
+.icon-Arrow-left2:before {
   content: "\ea40";
 }
